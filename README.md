@@ -6,6 +6,7 @@ To execute my application you will require the following set of files.
 1. client.java
 1. server.java
 1. phoneList.txt
+
 To run the java file the user can just type the following command in the terminal.
 * "java server. java"
-8 "java client.java" 
+* "java client.java" 
